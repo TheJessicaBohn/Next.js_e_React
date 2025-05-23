@@ -7,5 +7,12 @@ Next.js e React
 - Next.js é o framework;
 - TypeScript;
 
+# Importante:
+- Roda em: localhost:3000
+
+## Comandos:
+- ```npx create-next-app nomeDaAplicacao```: Criar projeto;
+- ```npm run dev```: Rodar a aplicação;
+
 ## Fonte:
 - https://www.udemy.com/course/nextjs-e-react
