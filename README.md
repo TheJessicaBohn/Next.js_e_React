@@ -7,8 +7,16 @@ Next.js e React
 - Next.js é o framework;
 - TypeScript;
 
-# Importante:
+## Importante:
 - Roda em: localhost:3000
+
+## Básicos:
+- O ambiente do Next.js roda em cima de um ambiente Node;
+- Usa sitema de módulos do ecmascript;
+- O mesmo nome do arquivo na rota;
+- Trabalha com hot-reload;
+- Paginas com rotas automaticamente criadas se dentro de ```Pages```;
+
 
 ## Comandos:
 - ```npx create-next-app nomeDaAplicacao```: Criar projeto;
